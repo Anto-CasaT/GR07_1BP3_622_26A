@@ -1,5 +1,6 @@
-package org.example;
 
+
+import org.example.Calculator;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
